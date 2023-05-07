@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DWHWhatsApp Business V1.7.0",
-      "code": 2005,
+      "version": "DWHWhatsApp Business V1.8.0",
+      "code": 2006,
       "url": "http://bit.ly/DWHWhatsAppBusiness",
-      "changelog": "- Base YM Updated to 2.23.4.79 Stable Base - IMPROVED Anti-Ban - Re-Added separate groups - Enabled Edit Message - Added...FULL CHANGELOG ON WEBSITE"
+      "changelog": "- NEW Base YM Updated to 2.23.7.80 Stable Base - New Anti-ban improvements - New Added check for updates in settings+ - New Languages added (Norwegian, Afrikaans, Romanian, Polish, Swedish, Persian, Bengali) - New Emojis...FULL CHANGELOG ON WEBSITE"
     }
   ]
 }
