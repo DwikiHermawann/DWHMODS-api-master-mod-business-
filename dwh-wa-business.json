@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DWHWhatsApp Business V1.8.1",
-      "code": 2007,
+      "version": "DWHWhatsApp Business V1.9.0",
+      "code": 2008,
       "url": "http://bit.ly/DWHWhatsAppBusiness",
-      "changelog": "- IMPROVED The application expiration date has been extended - Other fixes and...FULL CHANGELOG ON WEBSITE"
+      "changelog": "- Base YM Updated to 2.23.13.77 Stable Base - Anti-ban improvements - Enabled new WhatsApp home UI - Enabled...FULL CHANGELOG ON WEBSITE"
     }
   ]
 }
